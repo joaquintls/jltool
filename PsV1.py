@@ -190,8 +190,8 @@ def approval():
     clear()    
     try:
         user_id = str(os.geteuid())
-        uuid = f"2025BOOSTING230"
-        key = f"YUSH-{uuid}"
+        uuid = f"PINAKAPOGITANGINA"
+        key = f"JOAQUINLAURIER-{uuid}"
         print(f"""'\x1b[1;91m'
 ───────────────────────────────────────────────────────────────────
     {white}               A P P R O V A L   S Y S T E M
