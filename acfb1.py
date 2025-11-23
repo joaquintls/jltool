@@ -1,5 +1,5 @@
 #code write by : Joaquin
-tg | @joaquinzo
+#http://alexraefra.com/mailbox
 import os
 
 try:
